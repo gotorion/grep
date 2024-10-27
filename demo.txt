@@ -1,0 +1,58 @@
+Now that we’re increasingly concerned about the dominance of ‘big tech’, Open Source is often mentioned as an alternative, especially now that it seems our governments are carrying out a Total Migration to Microsoft.
+
+In Dutch we say you can’t compare apples and pears, but that’s not entirely true. Both are so-called handfruit, one a bit harder, the other a bit softer.
+
+But comparing Open Source to big tech is like comparing an oven to a restaurant. Big tech provides well-supported services, and nowadays runs everything for you in their own data centers. Meanwhile, Open Source is a collection of free/libre software that someone still needs to work on to turn it into (for example) a “workplace as a service”.
+
+As a comparison, your oven by itself is also not yet a restaurant.
+
+
+
+Photo by Denisse Diego on Unsplash
+
+This is not just linguistic nitpicking, it really makes a difference. A while ago, there was an idealistic faction in the European Parliament, and they decided they had had enough of big tech, and conducted an experiment with Nextcloud as a replacement. And it wasn’t successful.
+
+The regular IT environment in the European Parliament is managed by whole teams of professionals, it comes with training, and is supported by Microsoft partners and ultimately by Microsoft itself. There are also large amounts of computing power available to make things work well.
+
+Many Open Source experiments meanwhile are operated by an enthusiastic hobbyist with borrowed equipment. Rolled out without training and without professional support, by someone who likely did this for the first time, it’s no wonder things often don’t work out well.
+
+After the under-supported experiment, the faction was disappointed and concluded that Nextcloud was no good. And that was also their lived experience. “Let’s not do that again!”
+
+(By the way, all new software without accompanying support & guidance is doomed to fail. And if that software comes from a dominant player, you’ll just have to deal with that by the way.)
+
+How hard could it be?
+We often end up talking about Open Source as an alternative because there’s hardly anything else left outside of big tech. And that combined with “free” makes it a very attractive thing to ponder.
+
+Yet, there’s another company that offers cloud storage, file management, spreadsheets, word processing, email, and everything in between with their own software: Apple. Why don’t large corporations and governments choose this option then? Because Apple has Numbers, Keynote, Pages, Mail and much more. Yet, Apple is not actively targeting the large enterprise/government market.
+
+Making the best software is far from being the most important factor in sales to large corporations and governments. It’s about being able to tick all the boxes around it. And, don’t get me wrong, support, training, migration, hosting, and similar aspects are also extremely important.
+
+But the result is that it takes an unbelievable amount of extra effort to sell your software to large corporations and governments, even if you’ve already built the software. So much effort that even Apple doesn’t try, despite there being fortunes to be made in that market.
+
+Steve Jobs once said: “What I love about the consumer market, that I always hated about the enterprise market, is that we come up with a product, we try to tell everybody about it, and every person votes for themselves. (…) It’s really simple. With the enterprise market, it’s not so simple. The people that use the products don’t decide for themselves, and the people that make those decisions sometimes are confused.”. In the video you can hear lots of laughter at the last sentence, since it contains a painful truth.
+
+And what about open source?
+We spend billions per year on big tech software and the services surrounding it. At the same time, we somehow expect that free Open Source software can somehow compete with it. And naturally, it doesn’t work that way, leading to disappointments and making it easy to claim that “Open Source doesn’t work”.
+
+Now, it is true that you can build beautifully supported services with open source. And those services can indeed be much cheaper than if you had to pay for the software license as well.
+
+But if we want to give alternatives to “big tech” a chance, then we’ll have to invest comparable amounts of effort and significant money as well. This isn’t just about support, but also paying the authors of the software so they can continue to create nice things (do contact them first to ask how).
+
+Conclusion
+Ultimately, it’s unavoidable that we’ll want to try something different alongside the totally dominant platforms. But don’t make the mistake of calling just Open Source an alternative – users need not only software, but also mountains of services, and those still have to be found somewhere, and that’s won’t be cheaper or simpler just because the software is free.
+
+the author of this piece writes lots of open source and even won an award for doing so.
+Practical Remarks
+Experimenting is useful, but know that Open Source is the underdog, and there are many people waiting for an opportunity to enthusiastically declare that it has failed. This is due to commercial or conservative considerations - let’s stick with what we have, then we don’t need to change anything!
+
+So, only start if at least the following conditions are met:
+
+Achievable scope - very carefully determine how much you can do with the time, budget and people you have.
+Change management - people participating in the trial must be able to come forward early. Set up a test environment months in advance where everyone can try out whether everything works. Listen carefully to all concerns raised. Verify that the experiment can overcome the designated challenges. Because, yes, there is still an old label printer that really needs to keep working. And there are also visually impaired people in your organization who need high-contrast support and screen readers.
+Training sessions - the start button is now here, sending mail works like this, and this is how you search in your files. Can’t do enough of this.
+If (virtual) servers are needed, arrange for an abundance. Because at the first complaint that the new thing is slow, you’ve lost. The fact that software licenses are free doesn’t mean that there should be skimping on the rest.
+Ensure your helpdesk is staffed with top talent during extended office hours. People who can really answer questions and also have the ability to get problems resolved
+Don’t start if there isn’t a team ready to resolve problems!
+If you think the above is a bit over the top, this is the standard for every successful IT change. Open-source-based projects are no different.
+
+Finally, also pay close attention to who comes to help with all this. They must really be enthusiastic about it and not secretly prefer to just roll out “normal” office software.
